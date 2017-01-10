@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'CardanHome/Classes/**/*'
+  s.source_files = 'Pod/CardanHome/Classes/**/*'
   
   # s.resource_bundles = {
   #   'CardanHome' => ['CardanHome/Assets/*.png']
